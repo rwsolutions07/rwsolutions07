@@ -26,17 +26,39 @@
   </div>
 </div>
 
+<div align="left">
+  <h4>TECHNOLOGIES:</h4>
+  <table  align= "center">
+   <tr>
+   <a  href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,git,java,js,nodejs,react,ts,wordpress" />    
+  </a>
+ </tr>
+  </table>  
+</div>
+
 
   <h4>CO-FOUNDERS:</h4>
-  <div align="center" justify-content="space-between">
-  <div display="flex">
-    <div widht="100px">
-        <img src="https://media.licdn.com/dms/image/D4D35AQEmmzYbZokbug/profile-framedphoto-shrink_100_100/0/1646945963422?e=1682992800&v=beta&t=SwBdBUhhwaF17wogo7uXWDSGBe3B4SzeuteuCwGFZFM" width="100px" heigth="100px"/>
-        <p>Roni Almeida</p>
-    </div>
-    <div widht="100px">
-        <img src="https://media.licdn.com/dms/image/C4D03AQHU-Sgz1HYx2Q/profile-displayphoto-shrink_800_800/0/1641243843277?e=1687392000&v=beta&t=M3mdkd7lpfAwWICOgOGBfbWwcW-uYZvW93zjLOCp3oM" width="100px" heigth="100px"/>
-        <p>William Almeida</p>
-    </div>
-   </div>
-</div>
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/almeidaroni07">
+        <img src="https://avatars.githubusercontent.com/u/22482153?v=4" width="100px" heigth="100px"/><br>
+        <sub>
+          <b>Roni Almeida</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/Williamalmeida27">
+        <img src="https://media.licdn.com/dms/image/C4D03AQHU-Sgz1HYx2Q/profile-displayphoto-shrink_800_800/0/1641243843277?e=1687392000&v=beta&t=M3mdkd7lpfAwWICOgOGBfbWwcW-uYZvW93zjLOCp3oM" width="100px" heigth="100px"/><br>
+        <sub>
+          <b>William Almeida</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
