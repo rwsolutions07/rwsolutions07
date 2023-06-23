@@ -51,7 +51,7 @@
     </td>
      <td align="center">
       <a href="https://github.com/Williamalmeida27">
-        <img src="https://media.licdn.com/dms/image/C4D03AQHU-Sgz1HYx2Q/profile-displayphoto-shrink_800_800/0/1641243843277?e=1687392000&v=beta&t=M3mdkd7lpfAwWICOgOGBfbWwcW-uYZvW93zjLOCp3oM" width="100px" heigth="100px"/><br>
+        <img src="https://avatars.githubusercontent.com/u/101687916?v=4" width="100px" heigth="100px"/><br>
         <sub>
           <b>William Almeida</b>
         </sub>
